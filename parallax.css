@@ -1,0 +1,31 @@
+.spring-img{
+    background-image: url(assets/spring.jpg);
+}
+
+.spring-icon{
+    content: url('https://api.iconify.design/mdi/flower.svg?color=black&width=200&height=200');
+}
+
+.summer-img{
+    background-image: url(assets/summer.jpg);
+}
+
+.summer-icon{
+    content: url('https://api.iconify.design/game-icons/beach-ball.svg?color=black&width=200&height=200');
+}
+
+.fall-img{
+    background-image: url(assets/fall.jpg);
+}
+
+.fall-icon{
+    content: url('https://api.iconify.design/mdi/mushroom.svg?color=black&width=200&height=200');
+}
+
+.winter-img{
+    background-image: url(assets/winter.jpg);
+}
+
+.winter-icon{
+    content: url('https://api.iconify.design/game-icons/santa-hat.svg?color=black&width=200&height=200');
+}
